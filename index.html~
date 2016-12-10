@@ -16,7 +16,7 @@ http://www.tooplate.com/view/2082-pure-mix
 
 	<!-- Site title
    ================================================== -->
-	<title>Elise Eagan</title>
+	<title>Elise Eagan - Portfolio</title>
 
 	<!-- Bootstrap CSS
    ================================================== -->
@@ -62,7 +62,7 @@ http://www.tooplate.com/view/2082-pure-mix
             <div class="row">
 
               <div class="brand">
-                <a href="index.html">Pure Mix</a>
+                <a href="index.html">Elise Eagan</a>
               </div>
 
               <div class="navicon">
@@ -78,7 +78,6 @@ http://www.tooplate.com/view/2082-pure-mix
                       <ul id="nav-menu">
                         <li><a href="index.html">Home</a></li>
                         <li><a href="about.html">About</a></li>
-                        <li><a href="blog.html">Blog</a></li>
                         <li><a href="contact.html">Contact</a></li>
                       </ul>
                     </div>
@@ -126,10 +125,9 @@ http://www.tooplate.com/view/2082-pure-mix
 
                   <ul class="filter-wrapper clearfix">
                            <li><a href="#" data-filter="*" class="selected opc-main-bg">All</a></li>
-                           <li><a href="#" class="opc-main-bg" data-filter=".graphic">Graphic</a></li>
-                           <li><a href="#" class="opc-main-bg" data-filter=".template">Web template</a></li>
-                           <li><a href="#" class="opc-main-bg" data-filter=".photoshop">Photoshop</a></li>
-                        <li><a href="#" class="opc-main-bg" data-filter=".branding">Branding</a></li>
+                           <li><a href="#" class="opc-main-bg" data-filter=".graphic">Pre-processing(Graphic)</a></li>
+                           <li><a href="#" class="opc-main-bg" data-filter=".template">Supervised (Web template)</a></li>
+                           <li><a href="#" class="opc-main-bg" data-filter=".photoshop">Unsupervised (Photoshop)</a></li>
                         </ul>
 
                         <!-- iso box section -->
@@ -229,9 +227,6 @@ http://www.tooplate.com/view/2082-pure-mix
 				<p class="wow fadeInUp"  data-wow-delay="0.3s"> 2016 </p>
 				<ul class="social-icon wow fadeInUp"  data-wow-delay="0.6s">
 					<li><a href="#" class="fa fa-facebook"></a></li>
-					<li><a href="#" class="fa fa-twitter"></a></li>
-					<li><a href="#" class="fa fa-dribbble"></a></li>
-					<li><a href="#" class="fa fa-behance"></a></li>
 					<li><a href="#" class="fa fa-google-plus"></a></li>
 				</ul>
 			</div>
