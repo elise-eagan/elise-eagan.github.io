@@ -145,9 +145,12 @@ http://www.tooplate.com/view/2082-pure-mix
 
                 <div class="row">
 			<div class="col-md-2 col-sm-2"></div>
-			<div class="wow fadeInUp" data-wow-delay="1.6s" style="padding-left: 100px;">
-				<a href="Elise Eagan - Resume.pdf" style="color: #428bca; text-decoration: underline;" target="_My_PDF"><i class="fa fa-file-pdf-o fa-lg"></i> Download Resume HI(PDF)</a>
+			<div class="wow fadeInUp" data-wow-delay="1.6s">
+				<div style="padding-left: 100px;">
+				<a href="Elise Eagan - Resume.pdf" style="color: #428bca; text-decoration: underline;" target="_My_PDF"><i class="fa fa-file-pdf-o fa-lg"></i> Download Resume sak(PDF)</a>
                 	</div>
+			</div>
+
 		</div>
 		</div>
 
