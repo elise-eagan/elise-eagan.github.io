@@ -3,9 +3,7 @@
 <head>
 <!--
 
-Template 2082 Pure Mix
-
-http://www.tooplate.com/view/2082-pure-mix
+CONTACT.HTML
 
 -->
 	<meta charset="utf-8">
@@ -62,7 +60,7 @@ http://www.tooplate.com/view/2082-pure-mix
             <div class="row">
 
               <div class="brand">
-                <a href="index.html">Pure Mix</a>
+                <a href="index.html">Elise Eagan</a>
               </div>
 
               <div class="navicon">
@@ -118,14 +116,14 @@ http://www.tooplate.com/view/2082-pure-mix
    <div class="container">
       <div class="row">
 
-         <div class="wow fadeInUp col-md-6 col-sm-12" data-wow-delay="1.3s">
-         	<div class="google_map">
+		<!--
+         	<div class="wow fadeInUp col-md-6 col-sm-12" data-wow-delay="1.3s">
+         		<div class="google_map">
 				<div id="map-canvas"></div>
 			</div>
 		</div>
 
 
-		<!--
 		<div class="wow fadeInUp col-md-6 col-sm-12" data-wow-delay="1.6s">
 			<h1>Let's work together!</h1>
 			<div class="contact-form">
